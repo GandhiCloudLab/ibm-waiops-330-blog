@@ -1,6 +1,6 @@
 # Runbook Creation
 
-This article explain about how to create run book in Watson AIOps.
+This article explain about how to create Runbook in Watson AIOps.
 
 The runbook creating involves the following steps.
 

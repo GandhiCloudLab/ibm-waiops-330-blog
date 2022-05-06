@@ -57,7 +57,7 @@ Need to enable the Dataflow before starting the training.
 - Start Date: Yesterday date
 - End Date: Tomorrow date
 
-![ilender](./images/i-10.png)
+![ilender](./images/log/i-10.png)
 
 
 ### 1.5. Do Training
@@ -144,7 +144,7 @@ Here are the sample incidents from service now.
 
 ![ServiceNow](./images/snow/image-00001.png)
 
-You can refer to this link to create these incidents in sevicenow. https://github.com/ibm-gsi-ecosystem/watson-ai-ops-snow/tree/main/01-snow-incidents
+You can refer to this link to create these incidents in sevicenow. https://github.com/ibm-ecosystem-lab/watson-ai-ops-snow/tree/main/01-snow-incidents
 
 ### 2.2. Enable Data flow for Training
 

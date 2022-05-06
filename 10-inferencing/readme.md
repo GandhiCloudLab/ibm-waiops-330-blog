@@ -66,9 +66,10 @@ This section explains about how to run the Inferencing demo in Watson AIOps.
 
 4. Save it.
 
+
 ### 2.3. Run Demo Script
 
-The demo script is avialable [here](../70-inferencing-demo-script). 
+The demo script is avialable [here](../files). 
 
 Run `sh 01-demo.sh` to start the demo.
 

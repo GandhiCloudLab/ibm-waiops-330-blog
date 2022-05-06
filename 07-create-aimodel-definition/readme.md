@@ -4,7 +4,6 @@ This article explains about how create to AI-Model Definition for the following 
 
 - Log Anomaly detection
 - Similar Incidents
-- Similar Incidents
 - Enabling Story Creation Policy
 
 The article is based on the the following
