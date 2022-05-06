@@ -74,7 +74,7 @@ It is good to have the KV Parser modified. Here are the steps to do the same.
 @rawstring := mystring
 ```
 7.  Click on `Save`
-<img src="images/humio-parser-00005png">
+<img src="images/humio-parser-00005.png">
 
 8. Click on ` SandBox >> Settings >> API Tokens `
 
