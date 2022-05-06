@@ -18,6 +18,7 @@ Here is the Operational architecture that we are going to setup.
 
 <img src="images/architecture.png">
 
+
 ### 1. Watson AIOps 3.3 Installation
 <table>
     <tr>
@@ -42,6 +43,7 @@ Here is the Operational architecture that we are going to setup.
     </tr>
 
 </table>
+
 
 ### 2. Setup Tools for Integration
 <table>
@@ -156,6 +158,7 @@ Here is the Operational architecture that we are going to setup.
     </tr>    
 </table>
 
+
 ### 5. Application Management
 <table>
     <tr>
@@ -171,6 +174,7 @@ Here is the Operational architecture that we are going to setup.
 [Details](./40-application-management)</td>
     </tr>
 </table>
+
 
 ### 6. AI Model Management
 <table>
@@ -212,6 +216,7 @@ Here is the Operational architecture that we are going to setup.
         </td>
     </tr>        
 </table>
+
 
 ### 7. Training
 <table>
