@@ -22,9 +22,8 @@ Update the API_URL property with application url.
 API_URL=http://ilender-frontweb-ilender-ns.aaaaa.cloud
 ```
 
-Refer : [20-application-installation](../20-application-installation) to get application url
-Refer : [1. Deploying iLender Application](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-03-installing-ilender-app
-) to know how the app is deployed.
+Refer : [1. Deploying iLender Application](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-04-installing-ilender-app) to know how the app is deployed.
+
 #### 1.2. Update API_URL_CREDIT_SCORE Url
 
 Update the API_URL_CREDIT_SCORE property with creditscore service url.
@@ -32,11 +31,6 @@ Update the API_URL_CREDIT_SCORE property with creditscore service url.
 ```
 API_URL_CREDIT_SCORE=http://ilender-creditscore-ilender-ns.aaaaa.cloud/creditscore
 ```
-
-Refer : [20-application-installation](../20-application-installation) to get creditscore url
-Refer : [1. Deploying iLender Application](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-03-installing-ilender-app
-) to know how the app is deployed.
-
 
 ## 2. Run Demo (Inferencing)
 
@@ -89,6 +83,6 @@ This demo option will introduce `out of memory error` in the creditscore service
 
 ## Next Step
 
-By sucessful execution of the above demo step, the story would have been created and you can see them in the next section [72-inferencing-view-results](../72-inferencing-view-results).
+By sucessful execution of the above demo step, the story would have been created and you can see them in the next section [Inferencing - View Results](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-12-inferencing-view-results).
 
 

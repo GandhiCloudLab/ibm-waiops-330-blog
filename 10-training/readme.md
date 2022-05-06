@@ -29,11 +29,7 @@ Need to disable the Dataflow before generating the load in the application.
 
 We use iLender application here. 
 
-Refer : [20-application-installation](../20-application-installation) to know how the app is deployed.
-
-
-Refer : [1. Deploying iLender Application](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-03-installing-ilender-app
-
+Refer : [here](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-04-installing-ilender-app) to know how the app is deployed.
 
 ![ilender](./images/log/image-00002.png)
 

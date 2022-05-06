@@ -31,14 +31,14 @@ Here is the Operational architecture that we are going to setup.
         <td>Watson AIOps 3.3.0 Installation and demo setup requirements</td>
         <td>
 
-[Details ...](./01-install-prerequisite)
+[Details ...](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-02-watson-aiops-ai-manager-install)
         </td>
     </tr>
     <tr>
         <td>1.2</td>
         <td>Installing Watson AIOps AI-Manager on ROKS</td>
         <td>
-[Details ...](./03-install-ai-manager)
+[Details ...](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-02-watson-aiops-ai-manager-install)
         </td>
     </tr>
 
@@ -61,19 +61,19 @@ Here is the Operational architecture that we are going to setup.
         <td>OCP Cluster</td>
         <td>
 
-[Details ...](./81-installing-humio-on-openshift)</td>
+[Details ...](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-03-installing-humio)</td>
     </tr>   
     <tr>
         <td>3.2 </td>
         <td>Create Slack acccount</td>
         <td>Setup free slack account and create workspace, channels and slack app</td>
         <td>Slack</td>
-        <td>[Details](./32-integrations-slack)</td>
+        <td>[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-06-slack-account-creation-and-inte)</td>
     </tr>   
     <tr>
         <td>3.3 </td>
         <td>Create ServiceNow Instance</td>
-        <td></td>
+        <td>Procure a ServiceNow Developer Instance</td>
         <td>ServiceNow</td>
         <td>[Details ...](https://developer.servicenow.com/dev.do)
         <BR>[Up and Running](https://pages.github.ibm.com/up-and-running/watson-aiops/3.3%20PoC%20Cookbooks/ServiceNow/)</td>
@@ -110,7 +110,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Install iLender app on the managed environment</td>
         <td>
 
-[Details](./20-application-installation)</td>
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-04-installing-ilender-app)</td>
     </tr>
 </table>
 
@@ -129,7 +129,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Integrate with Slack collaboration platform. Need to copy nginx certificate as well.</td>
         <td>
 
-[Details](./32-integrations-slack)
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-06-slack-account-creation-and-inte)
 </td>
     </tr>
     <tr>
@@ -138,14 +138,14 @@ Here is the Operational architecture that we are going to setup.
         <td>&nbsp;</td>
         <td> 
         
-[Details](./30-integrations-humio)</td>
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-05-create-data-and-tool-integratio)</td>
     </tr>
     <tr>
         <td>5.3</td>
         <td>Setup Servicenow Integration</td>
         <td>&nbsp;</td>
         <td>
-[Details](./31-integrations-servicenow)
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-05-create-data-and-tool-integratio)
         </td>
     </tr>
     <tr>
@@ -153,7 +153,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Setup Kubernetes Integration</td>
         <td>&nbsp;</td>
         <td>
-[Details](./33-integrations-kubernetes-observer)
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-05-create-data-and-tool-integratio)
         </td>
     </tr>    
 </table>
@@ -171,7 +171,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Create Application from Resource Groups </td>
         <td>
 
-[Details](./40-application-management)</td>
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-07-create-application-in-ai-manage)</td>
     </tr>
 </table>
 
@@ -188,7 +188,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Create Training Definition for Log Anomaly Detection </td>
         <td>
 
-[Details](./50-ai-model-log-anomaly)  
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-08-create-ai-model-definition)  
         </td>
     </tr>
     <tr>
@@ -196,7 +196,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Create Training Definition for Similar Incidents </td>
         <td>
 
-[Details](./51-ai-model-similar-incidents)  
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-08-create-ai-model-definition)  
         </td>
     </tr>    
     <tr>
@@ -204,7 +204,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Enable Story Creation Policy </td>
         <td>
 
-[Details](./53-story-creation-policy)  
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-08-create-ai-model-definition)  
         </td>
     </tr>    
     <tr>
@@ -212,7 +212,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Runbook Automation </td>
         <td>
 
-[Details](./54-runbook)  
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-09-create-runbook)  
         </td>
     </tr>        
 </table>
@@ -232,20 +232,20 @@ Here is the Operational architecture that we are going to setup.
         <td>Generate the load for the app</td>
         <td>
 
-[Details](./21-application-load-generation)
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-10-training)
         </td>
     </tr>    
     <tr>
         <td>8.2</td>
         <td>Log Anomaly Detection training </td>
         <td>Create load in app, enable Data flow on humio integration, selction the mode, start the Log Anomaly Detection training</td>
-        <td>[Details](./61-training-log-anomaly)</td>
+        <td>[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-10-training)</td>
     </tr>
     <tr>
         <td>8.4</td>
         <td>Similar Incidents training </td>
         <td>Enable Data flow on Servicenow integration, selction the mode, start the Similar Incidents training</td>
-        <td>[Details](./62-training-similar-incidents)</td>
+        <td>[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-10-training)</td>
     </tr>    
 </table>
 
@@ -264,7 +264,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Prepare demo script to introduce log anomaly and ingest events</td>
         <td>
 
-[Details](./70-inferencing-demo-script)
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-11-inferencing)
         </td>
     </tr>
     <tr>
@@ -273,7 +273,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Run the demo script to induce error in credtiscore service based on the load</td>
         <td>
 
-[Details](./71-inferencing-run-demo)
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-11-inferencing)
         </td>
     </tr>
     <tr>
@@ -282,7 +282,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Check the stories created by WA</td>
         <td>
 
-[Details](./72-inferencing-view-results)
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-12-inferencing-view-results)
         </td>
     </tr>
     <tr>
@@ -291,7 +291,7 @@ Here is the Operational architecture that we are going to setup.
         <td>Resolving Incident</td>
         <td>
 
-[Details](./73-resolving-incidents)
+[Details](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-13-inferencing-resolve-incidents)
         </td>
     </tr>    
 </table>

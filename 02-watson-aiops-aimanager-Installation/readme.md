@@ -31,11 +31,9 @@ SRE would be indicated about the incident through ChatOps such as Slack or Team.
 
 Slack account is required for the WAIOps demo setup.
 
-The link [here](../32-integrations-slack) explains about account creation and integration with WAIOps.
+The link [here](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-06-slack-account-creation-and-inte) explains about account creation and integration with WAIOps.
 
-The link [here](https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/12/27/waiops-v32-series-05-slack-account-creation-and-in
-) explains about account creation and integration with WAIOps.
-
+Note: At this point of time, you don't need to follow the link and install anything.
 
 ### 1.3. ServiceNow Account
 

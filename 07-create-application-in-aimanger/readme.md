@@ -11,8 +11,7 @@ The article is based on the the following.
 
 Kubernetes observer is one of the Integrations that should have been created in WAIOps. This observer would observe all the Kubernetes resources, such as pod, service, deployment, node and etc, available in the given namespace. 
 
-To know how to create kubernetes observer, you can refer the link https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2021/05/12/aiops-v31-series-01-data-and-tool-integrations
-
+To know how to create kubernetes observer, you can refer the link https://community.ibm.com/community/user/aiops/blogs/jeya-gandhi-rajan-m1/2022/05/06/waiops-v33-part-05-create-data-and-tool-integratio
 
 ## Steps
 
