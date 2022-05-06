@@ -194,28 +194,16 @@ Do the same for both the channels.
 <img src="images/image-aimgr-00008.png">
 
 
-## 5. Update Nginx Certificate
+## 5. Restart Nginx PODs
 
 1. Login into AIOps installed cluster using `oc login ...` command .
 
-2. Goto the AIOps installed namespace
+2. Run the below command
 
 ```
-oc project cp4waiops
-```
-
-3. There is a script file [update-nginx.sh](./files/update-nginx.sh)
-
-Run the script.
+oc delete pod $(oc get po -n cp4waiops |grep ibm-nginx |awk '{print$1}') -n cp4waiops
 
 ```
-sh files/update-nginx.sh
-```
-
-This will update the nginx certificate.
-
-Note: The similar script is also available in  https://pages.github.ibm.com/up-and-running/watson-aiops/AI_Manager/Installation/#ngnix-certificate-for-v31
-
 
 ## 6. Integrate WAIOps in Slack
 
